@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @D-K-ITA
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning PHP & SQL
-- 💞️ I’m looking to collaborate on something good like hacking russian sites
+- 👋 Hi, I’m Dan
+- 👀 I’m interested in making money ofc
+- 🌱 I’m currently learning PHP , javascript , html&css .
+- 💞️ ME LOVER VERY MUCH
